@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jacksongeller/Append-Json-File",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.15"
   }
 }
